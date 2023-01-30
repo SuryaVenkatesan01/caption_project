@@ -4,11 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b55b5b46-11fb-4735-bc6a-56e5b731b929" name="Changes" comment="" />
+    <list default="true" id="b55b5b46-11fb-4735-bc6a-56e5b731b929" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1__login_suite/01__validlogin_test.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1__login_suite/02__invalidlogin_test.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_data/Kohl's_data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/log/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/base/common_functionalities.resource" beforeDir="false" afterPath="$PROJECT_DIR$/resource/base/common_functionalities.resource" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KuJfFTXIGBOutW9rzjAxqo1tFF" />
   <component name="ProjectViewState">
@@ -19,9 +57,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/robot_project/assessment/demo1_android_app.robot"
+    "last_opened_file_path": "C:/caption_project/test_data"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\caption_project\test_data" />
+      <recent name="C:\caption_project\resource\base" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\caption_project" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
