@@ -12,7 +12,7 @@ ${URL}      https://www.kohls.com/
 Launch Browser And Navigate To Url
     Open Browser      browser=${BROWSER_NAME}
     Maximize Browser Window
-    Set Selenium Implicit Wait    20s
+    Set Selenium Implicit Wait    30s
     Go To   url=${URL}
 
 Capture Screenshot And Close Browser

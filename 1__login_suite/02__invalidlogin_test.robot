@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       This file contains test cases related to valid login for kohl's
+Documentation       This file contains test cases related to invalid login for kohl's
 
 Resource    ../resource/base/common_functionalities.resource
 

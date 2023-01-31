@@ -5,30 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b55b5b46-11fb-4735-bc6a-56e5b731b929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1__login_suite/01__validlogin_test.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1__login_suite/02__invalidlogin_test.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/Kohl's_data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2__cart_suite/01__add_to_cart_test.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1__login_suite/02__invalidlogin_test.robot" beforeDir="false" afterPath="$PROJECT_DIR$/1__login_suite/02__invalidlogin_test.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/log.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/log/output.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resource/base/common_functionalities.resource" beforeDir="false" afterPath="$PROJECT_DIR$/resource/base/common_functionalities.resource" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_data/Kohl's_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test_data/Kohl's_data.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/caption_project/test_data"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/robot_project/selenium_suite/demo9_alert.robot&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\caption_project\test_data" />
@@ -78,6 +62,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674818636029</updated>
     </task>
+    <task id="LOCAL-00001" summary="login suite">
+      <created>1675061873326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675061873326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="login suite" />
+    <option name="LAST_COMMIT_MESSAGE" value="login suite" />
   </component>
 </project>
