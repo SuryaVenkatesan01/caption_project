@@ -10,7 +10,7 @@ Test Teardown    Close Browser
 Test Template    Invalid Kohl's Login Template
 
 *** Test Cases ***
-Invalid Kohl's Login Test
+Invalid Kohl's Login Test_${test_case}
 *** Keywords ***
 Invalid Kohl's Login Template
     [Arguments]     ${username}     ${password}     ${expected_error}
