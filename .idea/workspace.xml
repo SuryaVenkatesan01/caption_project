@@ -4,55 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b55b5b46-11fb-4735-bc6a-56e5b731b929" name="Changes" comment="cart suite">
-      <change afterPath="$PROJECT_DIR$/2__cart_suite/02__checkout_test.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-153.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-154.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-155.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-156.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-157.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-158.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-159.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-160.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-161.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-162.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-163.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-164.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-165.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-166.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-167.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-168.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-169.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-170.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-171.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-172.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-173.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-174.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-175.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-176.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-177.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-178.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-179.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-181.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-182.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-183.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-184.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-185.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-186.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-187.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-188.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-189.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-190.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/selenium-screenshot-191.png" afterDir="false" />
+    <list default="true" id="b55b5b46-11fb-4735-bc6a-56e5b731b929" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1__login_suite/02__invalidlogin_test.robot" beforeDir="false" afterPath="$PROJECT_DIR$/1__login_suite/02__invalidlogin_test.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2__cart_suite/01__add_to_cart_test.robot" beforeDir="false" afterPath="$PROJECT_DIR$/2__cart_suite/01__add_to_cart_test.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/log.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/log/output.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_data/Kohl's_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test_data/Kohl's_data.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +33,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/robot_project/selenium_suite/demo3_salesforce.robot&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/robot_project/appium_suite/demo3_android_advance.robot"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\caption_project\test_data" />
@@ -116,12 +72,20 @@
       <option name="project" value="LOCAL" />
       <updated>1675151126396</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="checkout">
+      <created>1675227788189</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675227788190</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="login suite" />
     <MESSAGE value="cart suite" />
-    <option name="LAST_COMMIT_MESSAGE" value="cart suite" />
+    <MESSAGE value="checkout" />
+    <option name="LAST_COMMIT_MESSAGE" value="checkout" />
   </component>
 </project>

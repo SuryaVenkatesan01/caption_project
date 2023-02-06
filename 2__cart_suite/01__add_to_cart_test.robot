@@ -16,14 +16,14 @@ Add To Cart Valid Test
 Add To Cart Valid Template
     [Arguments]     ${username}     ${password}     ${expected_text}
     Click Element    //a[@title='Account']
-    Click Element    class=account-signin
+    #Click Element    class=account-signin
     Input Text    xpath=//input[@name='loginEmail']    ${username}
     Input Password    xpath=//input[@name='loginPassword']     ${password}
     Click Element    id=Profilelogin
     Click Element    xpath=//span[text()='Shop by Category']
     Click Element    xpath=(//a[@class='navigation-item-link'])[10]
     Click Element    xpath=//a[text()=' Boots']
-    Run Keyword And Ignore Error    Click Element    xpath=//div[@class='dy-lb-close']
+    Run Keyword And Ignore Error  Click Element    xpath=//div[@class='dy-lb-close']
     Click Element    xpath=//p[text()='Dress Boots']
     Click Element    xpath=//img[@title="Aerosoles Cinnamon Women's Ankle Boots"]
     Wait Until Page Contains Element    xpath=//input[@class='pdp-addtobag']

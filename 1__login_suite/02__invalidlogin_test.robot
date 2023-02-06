@@ -15,7 +15,7 @@ Invalid Kohl's Login Test_${test_case}
 Invalid Kohl's Login Template
     [Arguments]     ${username}     ${password}     ${expected_error}
     Click Element    //a[@title='Account']
-    Click Element    class=account-signin
+    #Click Element    class=account-signin
     Input Text    xpath=//input[@name='loginEmail']    ${username}
     Input Password    xpath=//input[@name='loginPassword']     ${password}
     Click Element    id=Profilelogin

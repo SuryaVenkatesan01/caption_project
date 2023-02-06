@@ -16,7 +16,7 @@ Valid Kohl's Login Test
 Valid Kohl's Login Template
     [Arguments]     ${username}     ${password}     ${expected_element}
     Click Element    //a[@title='Account']
-    Click Element    class=account-signin
+    #Click Element    class=account-signin
     Input Text    xpath=//input[@name='loginEmail']    ${username}
     Input Password    xpath=//input[@name='loginPassword']     ${password}
     Click Element    xpath=//input[@id='Profilelogin']
